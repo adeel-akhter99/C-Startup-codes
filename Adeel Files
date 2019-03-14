@@ -1,0 +1,20 @@
+
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+# Changes to be committed:
+#	new file:   class/output
+#	new file:   function/Makefile
+#	new file:   function/main.cpp
+#	new file:   my_first_program/hello.cpp
+#	new file:   my_first_program/hello.exe
+#	new file:   my_first_program/hello.o
+#	new file:   my_first_program/makefile
+#	new file:   structure/main.cpp
+#	new file:   structure/output
+#	new file:   template/.template.cpp.swp
+#	new file:   template/output
+#	new file:   template/template.cpp
+#
